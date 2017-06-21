@@ -1,0 +1,70 @@
+{
+  "commit": "10b2b021ddaac63eb3f52ce0b42edfb625ca194b",
+  "appVersion": "44.1",
+  "build": 41455,
+  "app": "com.bohemiancoding.sketch3",
+  "pagesAndArtboards": {
+    "542D6E9D-F763-4360-982E-57A806936519": {
+      "name": "Symbols",
+      "artboards": {
+        "0BD2C953-F37D-4970-BE02-DA4BD6E4124E": {
+          "name": "Material/Light/Switch on"
+        },
+        "3D9F5A8F-3429-4C85-881D-96C7B13601E9": {
+          "name": "Material/Android/Status bar content light"
+        },
+        "995A0AB9-F1C4-40BF-AC3D-16A85E938F88": {
+          "name": "Material/Android/Status bar 360dp black"
+        },
+        "20A67110-5219-4DD1-9DB3-15E1D4C41261": {
+          "name": "Material/Light/Switch off"
+        },
+        "CA799155-0C43-4E3B-8162-8521128A451A": {
+          "name": "Material/Icons black/more vert"
+        }
+      }
+    },
+    "A63E406C-03F4-48E6-A9A3-40A957FB4CFC": {
+      "name": "Page 1",
+      "artboards": {
+        "08112B7A-E716-4A23-8B4A-6EF9EE417FB5": {
+          "name": "android Design system"
+        },
+        "B4D42DD7-5B35-4CA5-8151-541BCC618C5C": {
+          "name": "iOS Design system"
+        }
+      }
+    }
+  },
+  "fonts": [
+    "SanFranciscoText-Bold",
+    "Roboto-Bold",
+    "Roboto-BoldItalic",
+    "Roboto-Medium",
+    ".AppleSDGothicNeoI-SemiBold",
+    "SanFranciscoText-LightItalic",
+    "Roboto-Italic",
+    "SanFranciscoDisplay-Regular",
+    "SanFranciscoDisplay-Bold",
+    "SanFranciscoText-Regular",
+    "SanFranciscoDisplay-Medium",
+    "Roboto-Regular",
+    "SanFranciscoText-Medium",
+    "AppleSDGothicNeo-Regular",
+    "SanFranciscoText-Semibold"
+  ],
+  "created": {
+    "app": "com.bohemiancoding.sketch3",
+    "commit": "10b2b021ddaac63eb3f52ce0b42edfb625ca194b",
+    "build": 41455,
+    "appVersion": "44.1",
+    "variant": "NONAPPSTORE",
+    "version": 91
+  },
+  "version": 91,
+  "saveHistory": [
+    "NONAPPSTORE.41455"
+  ],
+  "autosaved": 0,
+  "variant": "NONAPPSTORE"
+}
