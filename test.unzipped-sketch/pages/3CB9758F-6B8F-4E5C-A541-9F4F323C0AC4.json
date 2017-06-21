@@ -10627,7 +10627,39 @@
                       "green": 0.553357317317747,
                       "red": 0.5434834581138029
                     },
-                    "fillType": 0,
+                    "fillType": 1,
+                    "gradient": {
+                      "_class": "gradient",
+                      "elipseLength": 1,
+                      "from": "{0.17996496288120029, 0.081087953143362049}",
+                      "gradientType": 0,
+                      "shouldSmoothenOpacity": false,
+                      "stops": [
+                        {
+                          "_class": "gradientStop",
+                          "color": {
+                            "_class": "color",
+                            "alpha": 1,
+                            "blue": 0.9882352941176471,
+                            "green": 0.6588235294117648,
+                            "red": 0.2156862745098039
+                          },
+                          "position": 0
+                        },
+                        {
+                          "_class": "gradientStop",
+                          "color": {
+                            "_class": "color",
+                            "alpha": 1,
+                            "blue": 0.8446085453033447,
+                            "green": 0.4293425381183624,
+                            "red": 0.7855268716812134
+                          },
+                          "position": 1
+                        }
+                      ],
+                      "to": "{0.82907406962953656, 0.90195746571493651}"
+                    },
                     "noiseIndex": 0,
                     "noiseIntensity": 0,
                     "patternFillType": 1,
@@ -21803,7 +21835,7 @@
           "isFlippedVertical": false,
           "isLocked": false,
           "isVisible": true,
-          "layerListExpandedType": 1,
+          "layerListExpandedType": 0,
           "name": "checkin",
           "nameIsFixed": true,
           "resizingConstraint": 63,
@@ -21892,7 +21924,7 @@
                       "green": 0.4352941176470588,
                       "red": 1
                     },
-                    "fillType": 0,
+                    "fillType": 1,
                     "gradient": {
                       "_class": "gradient",
                       "elipseLength": 1,
