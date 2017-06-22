@@ -17,12 +17,11 @@
     }
   },
   "fonts": [
-    "SanFranciscoText-Semibold",
-    "SanFranciscoDisplay-Regular",
-    "SanFranciscoText-LightItalic",
-    "SanFranciscoText-Bold",
-    "SanFranciscoText-Medium",
     "SanFranciscoText-Regular",
+    "SanFranciscoText-Semibold",
+    "SanFranciscoText-Medium",
+    "SanFranciscoText-Bold",
+    "SanFranciscoText-LightItalic",
     ".HelveticaNeueDeskInterface-Regular"
   ],
   "created": {
