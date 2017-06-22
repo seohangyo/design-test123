@@ -1,0 +1,86 @@
+{
+  "commit": "10b2b021ddaac63eb3f52ce0b42edfb625ca194b",
+  "appVersion": "44.1",
+  "build": 41455,
+  "app": "com.bohemiancoding.sketch3",
+  "pagesAndArtboards": {
+    "EFD8BE2F-7A6B-4F72-ACA3-D57626386BF7": {
+      "name": "Page 1",
+      "artboards": {
+        "B547EC9D-72DD-4C92-9EC9-553C7A9EE533": {
+          "name": "02_01_main_06"
+        },
+        "606FEB5B-ED54-4E2B-9365-35FE02FD3747": {
+          "name": "미션 한번도 안한상태(start 활성화, result 비활성화) copy"
+        },
+        "719092CA-C5A1-4E0B-9047-1A6CC0FD4B0B": {
+          "name": "02_01_main_08"
+        },
+        "9982C1E3-5652-4D61-9D26-E4FEE6EA48A5": {
+          "name": "02_01_main_03"
+        },
+        "221F5B97-EDD0-4D32-B974-0D7E2525A21A": {
+          "name": "미션 한번 이상 한 상태(start, result 둘다 활성화) (현재상태)"
+        },
+        "6B8534CB-CBA1-4B5C-9BF5-81DA2B097F4C": {
+          "name": "02_01_main_09"
+        },
+        "3F43E938-CE19-4EB1-A59B-912150C24364": {
+          "name": "7일째 (weekly result로 변경 후 활성화)"
+        },
+        "0F556D64-DEA5-43AF-AB28-A05EC1FC3EE4": {
+          "name": "02_01_main_01"
+        },
+        "A0E788C7-E6C8-43B3-965B-E882D46970A7": {
+          "name": "02_01_main_12"
+        },
+        "DCDAD90F-1721-4480-8D26-90F40FE698A8": {
+          "name": "미션 한번 이상 한 상태(start, result 둘다 활성화) (현재상태) copy"
+        },
+        "F71230ED-A83B-4F56-899E-549BA15E09B1": {
+          "name": "02_01_main_05"
+        },
+        "78883C5B-4369-43DE-BB82-B1D2F282E3D6": {
+          "name": "미션 횟수 모두 사용 (start 비활성화, result 활성화)"
+        },
+        "5716D2F6-F581-493C-A713-40D05B6B1394": {
+          "name": "02_01_main_07"
+        },
+        "C6009167-EFB0-4706-81AF-FB494508FC17": {
+          "name": "02_01_main_10"
+        },
+        "D636BF7F-6987-4413-95AE-B93D14C689F8": {
+          "name": "02_01_main_04"
+        },
+        "A87C4905-F92E-41F5-94EA-980CF51E5223": {
+          "name": "02_01_main_11"
+        },
+        "DBF7D899-8D5B-4B0D-97F5-6FD05C941549": {
+          "name": "02_01_main_02"
+        }
+      }
+    }
+  },
+  "fonts": [
+    "SanFranciscoText-Medium",
+    "SanFranciscoText-Semibold",
+    "SanFranciscoText-Regular",
+    "SanFranciscoDisplay-Bold",
+    "SanFranciscoText-LightItalic",
+    ".HelveticaNeueDeskInterface-Regular"
+  ],
+  "created": {
+    "app": "com.bohemiancoding.sketch3",
+    "commit": "10b2b021ddaac63eb3f52ce0b42edfb625ca194b",
+    "build": 41455,
+    "appVersion": "44.1",
+    "variant": "NONAPPSTORE",
+    "version": 91
+  },
+  "version": 91,
+  "saveHistory": [
+    "NONAPPSTORE.41455"
+  ],
+  "autosaved": 0,
+  "variant": "NONAPPSTORE"
+}
