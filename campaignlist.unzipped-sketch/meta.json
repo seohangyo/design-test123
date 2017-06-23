@@ -9,20 +9,17 @@
       "artboards": {
         "5AFD4F78-E50A-44C4-82E2-DD7B9601A4F1": {
           "name": "03_01_campaignlist_01"
-        },
-        "2608382E-C2F5-437E-8B25-D8B3DF1F2ACE": {
-          "name": "03_01_campaignlist_02"
         }
       }
     }
   },
   "fonts": [
-    "SanFranciscoText-Regular",
-    "SanFranciscoText-Semibold",
-    "SanFranciscoText-Medium",
+    ".HelveticaNeueDeskInterface-Regular",
     "SanFranciscoText-Bold",
     "SanFranciscoText-LightItalic",
-    ".HelveticaNeueDeskInterface-Regular"
+    "SanFranciscoText-Medium",
+    "SanFranciscoText-Regular",
+    "SanFranciscoText-Semibold"
   ],
   "created": {
     "app": "com.bohemiancoding.sketch3",
